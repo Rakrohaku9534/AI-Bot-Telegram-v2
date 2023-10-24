@@ -16,7 +16,7 @@ module.exports = {
   web2: 'https://instagram.com/fahrul_mt', // web 2
 //============================================
   ownerContact: {
-    ownerChatID: '', // id telegram owner
+    ownerChatID: '5925398161', // id telegram owner
     username: 'Fahrul GanzZ', // username telegram
     phoneNumber: '6285786539008', //number tele 
     firstName: 'Fahrul', //nama depan
